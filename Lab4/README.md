@@ -40,6 +40,10 @@ You can use the Amazon S3 console, the REST API, or the AWS CLI or AWS SDKs to c
 
 ![Object Properties](../images/SA-storage-class-analysis-prefix.png)
 
+6. If you chose tag, enter a value for the tag. You can enter one prefix and multiple tags.
+
+![Object Properties](../images/SA-storage-class-analysis-tag.png)
+
 
 
 
