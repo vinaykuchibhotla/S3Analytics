@@ -44,7 +44,7 @@ You can use the Amazon S3 console, the REST API, or the AWS CLI or AWS SDKs to c
 
 ![Object Properties](../images/SA-storage-class-analysis-tag.png)
 
-7. On the same pane, choose Export data to export analysis reports to a comma-separated values (.csv) flat file. Specify the destination bucket as **s3reinvent2018demosourcebucketaccount1** and provide the prefix **storageanalysis/<your bucket name>**. Here is an example showing the details for student-1 - 
+7. On the same pane, choose Export data to export analysis reports to a comma-separated values (.csv) flat file. Specify the destination bucket as **s3reinvent2018demosourcebucketaccount1** and provide the prefix **storageanalysis/your-bucket-name>**. Here is an example showing the details for student-1 - 
   
 ![Object Properties](../images/SA-storage-class-analysis-export-1.png)   
 
