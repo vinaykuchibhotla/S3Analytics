@@ -21,3 +21,13 @@ You can use Amazon S3 Storage Analytics storage class analysis to:
 
 You can use the Amazon S3 console, the REST API, or the AWS CLI or AWS SDKs to configure storage class analysis. For more information about storage class analysis, see [Amazon S3 Analytics – Storage Class Analysis](https://docs.aws.amazon.com/AmazonS3/latest/dev/analytics-storage-class.html)
 
+## Configuring Storage Class Analysis Lab
+
+1. Go to the S3 console, select your S3 bucket
+2. Choose the Management tab, and then choose Analytics.
+![Object Properties](../images/SA-choose-management-tab.png)
+
+
+
+
+
