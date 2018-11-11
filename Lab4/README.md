@@ -28,6 +28,18 @@ You can use the Amazon S3 console, the REST API, or the AWS CLI or AWS SDKs to c
 
 ![Object Properties](../images/SA-choose-management-tab.png)
 
+3. Choose Add
+
+![Object Properties](../images/SA-storage-class-analysis-add-filter.png)
+
+4.Type a name for the filter. If you want to analyze the whole bucket, leave the Prefix / tags field empty.
+
+![Object Properties](../images/SA-storage-class-analysis-filter.png)
+
+5.Name the filter appropriately and in the Prefix/tag filed type text for the prefix or tag for the objects that you want to analyze, or choose from the dropdown list that appears when you start typing.
+
+![Object Properties](../images/SA-storage-class-analysis-prefix.png)
+
 
 
 
