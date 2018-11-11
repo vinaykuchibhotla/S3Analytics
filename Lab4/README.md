@@ -25,6 +25,7 @@ You can use the Amazon S3 console, the REST API, or the AWS CLI or AWS SDKs to c
 
 1. Go to the S3 console, select your S3 bucket
 2. Choose the Management tab, and then choose Analytics.
+
 ![Object Properties](../images/SA-choose-management-tab.png)
 
 
