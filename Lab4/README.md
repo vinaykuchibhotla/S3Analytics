@@ -13,3 +13,11 @@ Note: Storage class analysis does not give recommendations for transitions to th
 You can have multiple storage class analysis filters per bucket, up to 1,000, and will receive a separate analysis for each filter. Multiple filter configurations allow you analyze specific groups of objects to improve your lifecycle policies that transition objects to STANDARD_IA.
 
 Storage class analysis results are updated daily and are available to view from the Amazon S3 console. These results can also be exported to a file in an S3 bucket and can be used in a spreadsheet application or can be used with the business intelligence tools such as Amazon QuickSight.
+
+You can use Amazon S3 Storage Analytics storage class analysis to:
+* **Analyze the entire contents of a bucket.**
+* **Analyze objects grouped together by prefix and tags.**
+* **Export analysis data.**
+
+You can use the Amazon S3 console, the REST API, or the AWS CLI or AWS SDKs to configure storage class analysis. For more information about storage class analysis, see [Amazon S3 Analytics – Storage Class Analysis](https://docs.aws.amazon.com/AmazonS3/latest/dev/analytics-storage-class.html)
+
