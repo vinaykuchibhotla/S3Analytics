@@ -50,6 +50,8 @@ You can use the Amazon S3 console, the REST API, or the AWS CLI or AWS SDKs to c
 
 Note: The destination bucket must be in the same AWS Region as the bucket for which you are setting up the analysis. The destination bucket can be in a different AWS account.
 
+8. Choose *Save*
+
 
 
 
