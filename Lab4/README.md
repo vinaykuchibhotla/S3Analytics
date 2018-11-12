@@ -54,7 +54,7 @@ Note: The destination bucket must be in the same AWS Region as the bucket for wh
 
 ## Lab Complete
 
-Congratulations! You have completed the lab on Storage Analytics.
+Congratulations! You have completed the lab on Amazon S3 Analytics – Storage Class Analysis.
 
 
 
