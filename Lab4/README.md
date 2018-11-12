@@ -1,4 +1,4 @@
-# S3Analytics
+# Amazon S3 Analytics - Storage Class Analysis
 
 ## Introduction
 This lab demonstrates the use of Amazon S3 analytics storage class analysis feature for making decisions on data life cycle management policies.
