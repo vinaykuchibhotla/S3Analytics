@@ -52,6 +52,10 @@ Note: The destination bucket must be in the same AWS Region as the bucket for wh
 
 8. Choose *Save*
 
+## Lab Complete
+
+Congratulations! You have completed the lab on Storage Analytics.
+
 
 
 
